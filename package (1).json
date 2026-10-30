@@ -1,1 +1,0 @@
-{"engines":{"node":">=18"},"name":"tg-bot","private":true,"scripts":{"start":"node server.js"},"type":"commonjs","version":"1.0.0"}
